@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      
+      <class name="testng.Parameterization"/>
+         <parameter name = "us" value = "aish"></parameter>
+         <parameter name = "ow" value = "1234"></parameter>
+         
+          <parameter name = "us1" value = "Manish"></parameter>
+         <parameter name = "ow1" value = "1234"></parameter>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

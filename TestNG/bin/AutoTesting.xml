@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testng.AutomationParam"/>
+      <parameter name="us" value="C"></parameter>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
